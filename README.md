@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @nkfttr;
-- 👀 I’m interested in game and web development;
-- 🌱 I’m currently learning HTML,CSS,Javascript and DevOps;
-- 💞️ I’m looking to collaborate on any project that will make me a better dev;
-- 📫 How to reach me, discord: .chinde
-- 😄 Pronouns: He/Him;
+Me chamo Nicolas, 
+estou aprendendo desenvolvimento Web, tanto Back quanto Front end;
+
+Atualmente estudando:
+MySQL
+Java
+Javascript
+HTML
+CSS
+
+discord: .chinde
 
 <!---
 nkfttr/nkfttr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
