@@ -2,10 +2,10 @@ Me chamo Nicolas,
 estou aprendendo desenvolvimento Web, tanto Back quanto Front end;
 
 Atualmente estudando:
-MySQL
-Java
-Javascript
-HTML
+MySQL,
+Java,
+Javascript,
+HTML,
 CSS
 
 discord: .chinde
